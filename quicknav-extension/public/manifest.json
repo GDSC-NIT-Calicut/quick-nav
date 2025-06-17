@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "QuickNav",
+  "version": "1.0",
+  "description": "Jump to your favorite URLs with quick keyboard shortcuts in the omnibox.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "./index.html"
+  },
+  "omnibox": {
+    "keyword": "q"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
