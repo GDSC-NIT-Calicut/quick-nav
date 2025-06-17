@@ -2,8 +2,8 @@
 <a href="https://gdscnitc.in">
 	<img width="800" src="./GDSCNITC.png" alt="GDSC NITC"/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > </h4>
+	<h2 align="center">QuickNav – Chrome Extension</h2>
+	<h4 align="center">Keyboard Shortcuts for Chrome, Built for Productivity</h4>
 </p>
 
 ---
@@ -12,30 +12,52 @@
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-green?style=flat-square)](INSERT_LINK_FOR_DOCS_HERE)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-orange?style=flat-square)](INSERT_UI_LINK_HERE)
 
+---
 
 ## ✨ Features
-- [ ]  < Feature 1 >
-- [ ]  < Feature 2 >
-- [ ]  < Feature 3 >
-- [ ]  < Feature 4 >
 
-## 💻 Tech Stack 
+- **Instant Navigation with Shortcuts:**  
+  Map your favorite URLs to custom keyboard shortcuts. Type your keyword in the Chrome address bar and jump to any site instantly.
+- **Group Shortcuts:**  
+  Create groups of shortcuts that open multiple tabs at once. Launch your workflow with a single command, like `:work` or `:social`.
+- **Drag-and-Drop Group Creation:**  
+  Build groups by dragging and dropping shortcuts into your custom group area. Managing your daily routine has never been easier.
+- **Persistent Storage & Sync:**  
+  All shortcuts and groups are saved and synced across your Chrome browsers, so your workflow stays consistent everywhere.
+- **Minimal, User-Friendly UI:**  
+  Clean, modern interface with smooth animations and dark mode support. Focus on what matters—getting things done fast.
 
-- < Stack Entry 1>
-- < Stack Entry 2>
-- < Stack Entry 3>
+## 💻 Tech Stack
+
+- **React**: Builds the popup UI with animations and state management.
+- **TypeScript**: Ensures type safety and maintainability.
+- **Tailwind CSS**: Provides utility-first, responsive styling.
+- **Framer Motion**: Adds delightful animations and transitions.
+- **Chrome Extension APIs**: Powers omnibox shortcuts and background scripts.
 
 ## 🛠 Dependencies
-- < Dependency 1 >
-- < Dependency 2 >
-- < Dependency 3 >
+
+- **React**: UI development.
+- **TypeScript**: Type checking and modern JavaScript features.
+- **Tailwind CSS**: CSS framework.
+- **Framer Motion**: Animations.
+- **Heroicons**: Beautiful, consistent icons for UI elements.
+- **Vite**: Fast, modern build tool for development and production.
+
+---
+
+## Why Should You Install QuickNav?
+
+QuickNav is designed for anyone who values speed and efficiency in their web browsing. Whether you’re a developer, student, or professional, QuickNav lets you access your most-used sites with just a few keystrokes. No more typing out long URLs or searching through bookmarks—just type your shortcut and go. With group support, you can launch your entire workflow in seconds, making QuickNav the perfect companion for anyone who wants to get more done in less time.
+
+---
 
 ## CONTRIBUTORS
 
 <table>
 	<tr align="center">
 		<td>
-		Enter Name
+		Your Name Here
 		<p align="center">
 			<img src = "https://yt3.googleusercontent.com/ytc/AIdro_mQRyioMUO4VBrlP-jILdsU6_wMf1KSU9syWtUN4hmK1hg=s900-c-k-c0x00ffffff-no-rj" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
@@ -49,5 +71,8 @@
         </p>
 		</td>
 	</tr>
-    
 </table>
+
+---
+
+**QuickNav is open-source, free, and ready to supercharge your browsing experience. Try it today and navigate the web faster than ever!**
