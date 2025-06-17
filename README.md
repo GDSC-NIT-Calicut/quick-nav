@@ -2,7 +2,10 @@
 <a href="https://gdscnitc.in">
 	<img width="800" src="./GDSCNITC.png" alt="GDSC NITC"/>
 </a>
-	<h2 align="center">QuickNav – Chrome Extension</h2>
+	<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+		<img width="60" src="./QuickNav.png" alt="QuickNav Logo">
+		<h2>QuickNav – Chrome Extension</h2>
+	</div>
 	<h4 align="center">Keyboard Shortcuts for Chrome, Built for Productivity</h4>
 </p>
 
@@ -72,6 +75,11 @@ QuickNav is designed for anyone who values speed and efficiency in their web bro
 		</td>
 	</tr>
 </table>
+
+
+## Steps to run : 
+
+### Preq
 
 ---
 
