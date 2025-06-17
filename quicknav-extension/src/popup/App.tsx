@@ -1,7 +1,5 @@
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-
-// Heroicons (React) - Import icons as React components
 import { TrashIcon, PencilIcon } from '@heroicons/react/24/outline';
 
 const normalizeUrl = (url: string): string => {
@@ -124,8 +122,4 @@ const App = () => {
           ))}
         </AnimatePresence>
       </ul>
-    </div>
-  );
-};
-
-export default App;
+    </
