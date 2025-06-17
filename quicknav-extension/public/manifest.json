@@ -3,14 +3,26 @@
   "name": "QuickNav",
   "version": "1.0",
   "description": "Jump to your favorite URLs with quick keyboard shortcuts in the omnibox.",
-  "permissions": ["storage"],
+  "permissions": ["storage", "tabs"],
+  "icons": {
+    "16": "/QuickNav.png",
+    "32": "/QuickNav.png",
+    "48": "/QuickNav.png",
+    "128": "/QuickNav.png"
+  },
   "action": {
+    "default_icon": {
+      "16": "/QuickNav.png",
+      "32": "/QuickNav.png",
+      "48": "/QuickNav.png",
+      "128": "/QuickNav.png"
+    },
     "default_popup": "./index.html"
   },
   "omnibox": {
     "keyword": "q"
   },
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "./background.js"
   }
 }
