@@ -62,13 +62,13 @@ QuickNav is designed for anyone who values speed and efficiency in their web bro
 		<td>
 		Your Name Here
 		<p align="center">
-			<img src = "https://yt3.googleusercontent.com/ytc/AIdro_mQRyioMUO4VBrlP-jILdsU6_wMf1KSU9syWtUN4hmK1hg=s900-c-k-c0x00ffffff-no-rj" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://avatars.githubusercontent.com/u/139075087?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
         <p align="center">
-            <a href = "https://github.com/person1">
+            <a href = "https://github.com/vinitkesh">
                 <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
             </a>
-            <a href = "https://www.linkedin.com/in/person1">
+            <a href = "https://www.linkedin.com/in/vinitkeshri">
                 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
             </a>
         </p>
